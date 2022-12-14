@@ -4,7 +4,7 @@ Updated: 12/14/2022
 
 - #### Design a linear equation solver using ZYNQ
 
-<img src="C:\onWorking\ELEC522_Advanced_VLSI_Design\Overall_Architecture.png" alt="Overall_Architecture" style="zoom:50%;" />
+![Overall_Architecture](C:\onWorking\ELEC522_Advanced_VLSI_Design\README.assets\Overall_Architecture.png)
 
 1. **ELEC_522_Proj_1_Sysgen_Intro / CUDA Intro** 
 2. **ELEC_522_Proj_2_Matrix_Mult on FPGA / GPU**
